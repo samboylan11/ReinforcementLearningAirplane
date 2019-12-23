@@ -7,6 +7,6 @@ MLAgents
 TensorFlow
 InputSystem
 
-
+![](AgentRecording.gif)
 
 Made By: Samuel Boylan-Sajous
