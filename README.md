@@ -4,11 +4,7 @@ Airplane learning to fly through a race track using Deep Reinforcement Learning 
 Built with C# and Python.
 
 Dependencies: 
-MLAgents
-
-TensorFlow
-
-InputSystem
+MLAgents, TensorFlow, InputSystem
 
 
 What the Model Looks like after 1 million steps: 
