@@ -7,6 +7,7 @@ MLAgents
 TensorFlow
 InputSystem
 
+What the Model Looks like after 1 million steps: 
 ![](AgentRecording.gif)
 
 Made By: Samuel Boylan-Sajous
