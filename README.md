@@ -4,9 +4,12 @@ Airplane learning to fly through a race track using Deep Reinforcement Learning 
 Using MLAgents 0.11.0
 
 Dependencies: 
-MLAgents,
-TensorFlow,
+MLAgents
+
+TensorFlow
+
 InputSystem
+
 
 What the Model Looks like after 1 million steps: 
 
