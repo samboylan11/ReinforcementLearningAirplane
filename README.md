@@ -19,7 +19,7 @@ Training the agent in a 8 loop:
 
 ![](8aircraft.gif)
 
-Training the agent in a hard course with obstacles:
+Training the agent in a difficult course with obstacles:
 
 ![](HARDaircraftAgentGIF.gif)
 
