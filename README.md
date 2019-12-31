@@ -13,7 +13,7 @@ Training the agent in a loop:
 
 Training the agent in a Loop with sparse rewards:
 
-![](LoopSparseAircraftGiF.gif)
+![](LoopSparseAircraftGIF.gif)
 
 Training the agent in a 8 loop:
 
