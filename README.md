@@ -7,8 +7,8 @@ Dependencies:
 MLAgents, TensorFlow, InputSystem
 
 
-What the Model Looks like after 1 million steps: 
+Training the agent in a loop: 
 
-![](AgentRecording.gif)
+![](LoopAircraftGIF.gif)
 
 Made By: Samuel Boylan-Sajous
