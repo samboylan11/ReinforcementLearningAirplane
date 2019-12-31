@@ -11,4 +11,16 @@ Training the agent in a loop:
 
 ![](LoopAircraftGIF.gif)
 
+Training the agent in a Loop with sparse rewards:
+
+![](LoopSparseAircraftGiF.gif)
+
+Training the agent in a 8 loop:
+
+![](8aircraftAgentGIF.gif)
+
+Training the agent in a hard course with obstacles:
+
+![](HARDaircraftAgentGIF.gif)
+
 Made By: Samuel Boylan-Sajous
