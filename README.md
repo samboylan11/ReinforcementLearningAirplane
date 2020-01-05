@@ -6,7 +6,7 @@ Built with C# and Python.
 Dependencies: 
 MLAgents, TensorFlow, InputSystem
 
-Every video is done with the same static neural network brain. I trained them with 4 different racetracks so they can generalize their knowledge (and prevent overfitting) to tracks they have never seen before.
+Every video is done with the same neural network brain. I trained them with 4 different racetracks so they can generalize their knowledge (and prevent overfitting) to tracks they have never seen before.
 
 Training the agent in a loop: 
 
