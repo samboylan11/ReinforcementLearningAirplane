@@ -25,4 +25,5 @@ Training the agent in a difficult course with obstacles:
 ![](HARDaircraftAgentGIF.gif)
 
 Made By: Samuel Boylan-Sajous
-Learned code from Udemy.com/immersivelimit course
+
+Learned MLAgents code from https://www.udemy.com/course/ai-flight/ course
