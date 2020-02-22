@@ -26,4 +26,3 @@ Training the agent in a difficult course with obstacles:
 
 Made By: Samuel Boylan-Sajous
 
-Learned MLAgents code from https://www.udemy.com/course/ai-flight/ course
